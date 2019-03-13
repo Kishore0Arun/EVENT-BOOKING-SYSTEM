@@ -1,0 +1,2 @@
+# EVENT-BOOKING-SYSTEM
+This project is being developed for the purpose of event booking where the customer will be getting to know about different kinds of events and various types of information’s which “N K Events” provide. The customer can choose event of his choice and make the payment for the respective event. Admin can view the events which have been booked and he can also check the queries from the customer. The application is entitled as “EVENT BOOKING SYSTEM”.
